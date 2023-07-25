@@ -20,4 +20,4 @@ Then add another elif before the else.
 
 ## Make it Run Automatically 
 
-To passively sort your fold make sure you use [task scheduler](https://www.jcchouinard.com/python-automation-using-task-scheduler/#:~:text=To%20schedule%20a%20Python%20script%20with%20Task%20scheduler%2C%20create%20an,the%20execution%20of%20your%20script.) 
+To passively sort your folder make sure you use [task scheduler](https://www.jcchouinard.com/python-automation-using-task-scheduler/#:~:text=To%20schedule%20a%20Python%20script%20with%20Task%20scheduler%2C%20create%20an,the%20execution%20of%20your%20script.) 
