@@ -8,7 +8,7 @@ I use it on my downloads folder but if you want to run it on your own folder or 
 
 Clone the repo.
 ```
-git clone 
+git clone https://github.com/isbees/File-Sorter.git
 ```
 Modify `file_sorter.py` starting with the path. Copy and paste the folder location that you would like to sort
 
