@@ -3,7 +3,7 @@ import shutil
 
 # path to the folder you want to sort
 # make the user your user name for your computer 
-user = 'Isbees'
+user = ''
 path = 'C:/Users/'+user+'/Downloads'
 
 # folders and their types
