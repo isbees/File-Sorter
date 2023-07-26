@@ -1,6 +1,6 @@
 # File Sorting Script in Python
 
-Simple script to use on your own files. 
+Simple script to use on your own files. This will sort any given directory of loose files that aren't in folders and create a place for them. 
 
 I use it on my downloads folder but if you want to run it on your own folder or want to edit the folder options 
 
